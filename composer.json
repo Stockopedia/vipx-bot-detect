@@ -1,5 +1,5 @@
 {
-    "name": "vipx/bot-detect",
+    "name": "stockopedia/bot-detect",
     "type": "library",
     "description": "Bot detector library",
     "keywords": ["Bot"],
