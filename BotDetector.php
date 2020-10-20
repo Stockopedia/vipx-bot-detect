@@ -56,6 +56,8 @@ class BotDetector implements BotDetectorInterface
             } else {
                 $invalid[] = $key;
             }
+            
+            
         }
 
         if ($invalid) {
